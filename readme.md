@@ -2,7 +2,7 @@
 
 This is a neovim integration for alfread.
 It lets you search for folders and will open it with neovim.
-TMUX is also integrated, which can be enabled or disabled in the configuration.
+TMUX is also integrated, which can be enabled or disabled in the configuration
 
 ## Configuration
 
